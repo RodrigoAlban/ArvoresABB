@@ -34,6 +34,7 @@ int       nivel           (pDArvore, void *, FuncaoComparacao);
 int       quantidadeFolhas(pDArvore);
 int       quantidadeNohs  (pDArvore);
 int       ehFolha         (pDArvore, void *, FuncaoComparacao);
+int       quantidadeNohsInternos(pDArvore);
 
 void desenhaArvore(pDArvore, FuncaoImpressao);
 

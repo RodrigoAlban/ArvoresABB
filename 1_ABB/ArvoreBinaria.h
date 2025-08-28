@@ -26,6 +26,8 @@
 
 #include "Operacoes/13_desenhaArvore.h"
 
+#include "Operacoes/14_quantidadeNohsInternos.h"
+
 
 
 #endif
